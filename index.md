@@ -6,4 +6,5 @@ A continuación se listan las consolas mas populares del mercado:
 2. INTELLIVISION
 3. SEGA SG-100
 4. NINTENDO ENTERTAIMENT SYSTEM
-5. SEGA GENESIS
+5. SEGA MASTER SYSTEM
+6. SEGA GENESIS
